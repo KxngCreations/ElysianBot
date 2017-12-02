@@ -1,0 +1,13 @@
+{
+  "name": "Elysian-Bot",
+  "version": "1.0.0",
+  "description": "A little shady helper",
+  "main": "bot.js",
+  "author": "Shadebytes",
+}
+      "scripts": {
+    "start": "node bot.js",
+  }
+  "dependencies": {
+    "discord.js": "11.2.1",
+}
